@@ -1,0 +1,31 @@
+.service-container {
+  padding: 50px;
+  background-image: url("https://global-uploads.webflow.com/5e2b8863ba7fff8df8949888/5ea9e312990e08746d80d094_5e28eadaff920783b494509b_hIP-HOP-DANCE-BLOG.jpeg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6));
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.cart {
+  padding: 10px;
+  width: 75%;
+  height: 400px;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 50px;
+  color: aliceblue;
+
+}
+.cart-details{
+  padding: 10px;
+}
+.img{
+  border-radius: 10px;
+  transition: transform 2s;
+}
+.img:hover{
+  transform: rotate(360deg);
+}

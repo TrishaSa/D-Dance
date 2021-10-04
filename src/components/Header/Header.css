@@ -1,0 +1,22 @@
+.header {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/570196633c44d887e7958da3/1460262538715-Z98WLE0DZZV3HGR98OXM/ke17ZwdGBToddI8pDm48kCDj69NzL6a6kZIFJ43LUP5Zw-zPPgdn4jUwVcJE1ZvWW4PbrTyCWR9x7-ujYMNVoSllE-zBavrZi7JuSB3XsEIp2ryTI0HqTOaaUohrI8PIx5GAk6R3Mx5-hk9MjWiqwqIdFNUMKgOmAGjf2FNJfdwKMshLAGzx4R3EDFOm1kBS/dance-photography.jpg?format=1500w"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 600px;
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 59px;
+}
+.about-btn {
+  background-color: #ff0505;
+  outline: none;
+  border: none;
+  padding: 17px 34px;
+  color: white;
+}

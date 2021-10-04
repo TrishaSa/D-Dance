@@ -1,0 +1,25 @@
+.from-container{
+  padding: 10px;
+  margin-top: 10px;
+  background-image: url("https://www.seekpng.com/png/detail/105-1052890_music-on-wheels-djs-high-school-dancers-dj.png"),
+     linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2));
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.from{
+	width:50%;
+	margin: 0 auto;
+	padding: 40px;
+}
+.label{
+	color: white;
+	font-weight: 400;
+	font-size: 20px;
+}
+h1{
+	color: white;
+	font-size: 70px;
+}

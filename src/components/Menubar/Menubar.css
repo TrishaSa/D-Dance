@@ -1,0 +1,17 @@
+.item{
+  margin-right: 20px;
+  font-size: 22px;
+  font-weight: 500;
+  color: rgb(210, 210, 210);
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.item:hover {
+  color: rgb(221, 5, 5);
+}
+
+h2{
+  color: aliceblue;
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "Title": "Ballet",
+    "Description": "Ballet dance developed during the Italian Renaissance, before evolving in France and Russia into a concert dance meant for public performance. This is in the form of a ballet, in which the dance is choreographed with classical music.",
+    "Price": 500,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/scottish-ballet-1024x602.jpg"
+  },
+  {
+    "Title": "Ballroom",
+    "Description": "Ballroom dance is a type of partner dance originating at the end of the sixteenth century in France. Commonly used as shorthand for any partner dance, ballroom has today evolved into two main subgenres – standard/smooth and Latin/rhythm.",
+    "Price": 700,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/RHH-Dance-Against-Dementia-MattChungPhoto-lo-res-40.jpg"
+  },
+  {
+    "Title": "Contemporary",
+    "Description": "Developed during the mid-twentieth century, contemporary dance is now one of the most popular and technical forms of dance studied and performed professionally, especially in the US and Europe.",
+    "Price": 1000,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/Gold-Hi-Shine-MK-ULTRA3-credit-Brian-Slater.jpg"
+  },
+  {
+    "Title": "Jazz",
+    "Description": "Jazz dancing has its roots in seventeenth-century African traditions, brought to the Americas via the Atlantic slave trade as slaves continued dancing traditions in Brazil, the US and elsewhere on the continents.",
+    "Price": 800,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/jumping-dancers-scaled.jpg"
+  },
+  {
+    "Title": "Tap Dancing",
+    "Description": "Tap dancing is a type of percussive dance characterised by the “tap” of shoes hitting the floor as the person dances. Tap dancers often wear metal “taps” on the heel and toe of a shoe to accentuate the sound.",
+    "Price": 700,
+    "img": "https://uk.harlequinfloors.com/content/uploads/2020/01/tap-attack.png"
+  },
+  {
+    "Title": "Folk Dance",
+    "Description": "Folk dancing is celebrated worldwide with people of different cultures and religions using various forms of folk dance to portray emotions, stories, historical events or even aspects of daily life.",
+    "Price": 1000,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/Folk-dance-image-scaled.jpg"
+  },
+  {
+    "Title": "Irish Dance",
+    "Description": "Originating in Ireland, this form of traditional dance has been popular for hundreds of years amongst Irish people and other countries worldwide. Popularised by shows such as Riverdance, Irish dancing is famously known for its fabulous display of footwork and dance formations.",
+    "Price": 800,
+    "img": "https://cms.harlequinfloors.com/wp-content/uploads/2020/01/Riverdance-Troup-Killarney-scaled.jpg"
+  }
+ 
+]

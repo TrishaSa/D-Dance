@@ -1,0 +1,20 @@
+.teacher-container{
+	padding: 40px;
+	margin-top: 10px;
+}
+.teacher{
+	margin-top: 30px;
+}
+
+.teacher img{
+	height: 350px;
+	border-radius: 50px;
+	transition: opacity 2s;
+}
+.teacher img:hover{
+  opacity: 0.5;
+}
+
+h3{
+	font-weight: 500;
+}
